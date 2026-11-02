@@ -47,6 +47,12 @@ Hoje estudo **JavaScript, Java e Banco de Dados**, e uso projetos práticos da f
 ![IA](https://img.shields.io/badge/Automa%C3%A7%C3%A3o%20com%20IA-6E40C9?style=for-the-badge&logo=openai&logoColor=white)
 ![Desenvolvimento com IA](https://img.shields.io/badge/Desenvolvimento%20assistido%20por%20IA-0A66C2?style=for-the-badge)
 
+**IAs que uso no dia a dia**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=xai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini%20(ocasional)-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+
 **Ferramentas**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -57,7 +63,7 @@ Hoje estudo **JavaScript, Java e Banco de Dados**, e uso projetos práticos da f
 
 ## 📌 Projetos em destaque
 
-Em breve: projetos da faculdade e automações com IA. 🚧
+- 🔗 **[kubejs-modpack-scripts](https://github.com/Julgado010/kubejs-modpack-scripts)**: scripts KubeJS para modpack de Minecraft 1.21.1 (NeoForge), com sistema de minérios, Create e XyCraft, feito com apoio de IA.
 
 ---
 
