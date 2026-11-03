@@ -37,6 +37,8 @@ Hoje estudo **JavaScript, Java e Banco de Dados**, e uso projetos práticos da f
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Banco de dados**
 
@@ -63,6 +65,7 @@ Hoje estudo **JavaScript, Java e Banco de Dados**, e uso projetos práticos da f
 
 ## 📌 Projetos em destaque
 
+- 🌐 **[portfolio-web-tauan-dias](https://github.com/Julgado010/portfolio-web-tauan-dias)**: meu portfólio em HTML, CSS e JavaScript, com tema medieval e Minecraft, abertura com baú e jukebox, feito com apoio de IA. [**Ver o site no ar**](https://julgado010.github.io/portfolio-web-tauan-dias/)
 - 🔗 **[kubejs-modpack-scripts](https://github.com/Julgado010/kubejs-modpack-scripts)**: scripts KubeJS para modpack de Minecraft 1.21.1 (NeoForge), com sistema de minérios, Create e XyCraft, feito com apoio de IA.
 
 ---
@@ -92,5 +95,6 @@ Ao analisar os 10 perfis, percebi que os melhores não são os mais enfeitados, 
 
 ## 📫 Contato
 
+- 🌐 Portfólio: [julgado010.github.io/portfolio-web-tauan-dias](https://julgado010.github.io/portfolio-web-tauan-dias/)
 - 💼 LinkedIn: [linkedin.com/in/tauan-dias-1b078741a](https://www.linkedin.com/in/tauan-dias-1b078741a)
 - ✉️ E-mail: tauanv347@gmail.com
